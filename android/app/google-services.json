@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098721685102",
+    "project_id": "awaj-94f35",
+    "storage_bucket": "awaj-94f35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098721685102:android:94d7e6686b75e8226ec07f",
+        "android_client_info": {
+          "package_name": "com.example.awaj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDia-DVQTOYzsVplF21CLp1JkeESPaYJao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
